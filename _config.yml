@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bethany Clarke, PhD Student"
+title                    : "Bethany Clarke"
 title_separator          : "-"
 name                     : &name "Bethany Clarke"
 description              : &description "personal description"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &Clarke21B
 facebook:
   username               :
   app_id                 :
@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  #"google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -85,8 +85,8 @@ author:
   bio              : "A PhD Student in Mathematics at Imperial College London."
   location         : "London"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/Clarke21B/with_replies"
+  twitter          : "https://twitter.com/Clarke21B"
   vine             :
   weibo            :
   xing             :
