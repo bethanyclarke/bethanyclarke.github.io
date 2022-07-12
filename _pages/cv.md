@@ -23,24 +23,26 @@ redirect_from:
 * Book Prize, Oct 2021 (St Peter's College, Oxford)
 
 ## Teaching
-* Teaching Assistant for  
+* Teaching Assistant at Imperial College London for: 
   * M40004: Calculus and Applications, Autumn 2021
   * M40007: Introduction to Applied Mathematics, Spring 2022 
 
-## Other Work Experience
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## Other Work/Volunteering Experience
+* Summer 2021: Mentor - Problem Solving Matters
+  * Mentoring Year 12 Students from UK State Schools in preparation for higher education entrance exams.
+  * Duties included: leading sessions once a week, supporting the students between sessions and marking coursework.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2020: Software Developer Intern - Softwire
+  * Worked in a team to create a website for a start-up company.
+  * Languages used: C#, Javascript, HTML.
 
+* Summer 2018: Maths Camp Leader - SAMI, Kenya
+  * Running a 1-week maths camp for local students aged 14-21.
+  * Duties included: leading the team of volunteers during registration of all students, creating and delivering sessions during the camp.
 
-  
 <!---
+* Summer 2: Research Assistant
+
 Skills
 ======
 * Skill 1
