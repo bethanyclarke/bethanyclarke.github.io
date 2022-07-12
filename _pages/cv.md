@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* MMath in Mathematics, University of Oxford, 2017-2021 (First Class)
+* PhD in Applied Mathematics, Imperial College London, 2021-Current (expected)
 
 Work experience
 ======
@@ -26,7 +25,14 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
+
+Teaching
+======
+* Teaching Assistant for  
+  * M40004: Calculus and Applications, Autumn 2021
+  * M40007: Introduction to Applied Mathematics, Spring 2022 
   
+<!---
 Skills
 ======
 * Skill 1
@@ -57,3 +63,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
