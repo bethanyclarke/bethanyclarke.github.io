@@ -13,7 +13,7 @@ A first year PhD Student in Mathematics at Imperial College London, studying flu
 
 Contact Me
 ======
-For any enquiries, please get in contact [b.clarke21@imperial.ac.uk](mailto:b.clarke21@imperial.ac.uk) [test](mailto:b.clarke21@imperial.ac.uk)
+For any enquiries, please [get in contact](mailto:b.clarke21@imperial.ac.uk).
 
 <!---
 A data-driven personal website
