@@ -1,14 +1,12 @@
 ---
 permalink: /
-#title: "About Me"
-#excerpt: "About me"
+title: "About Me"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-About Me 
-======
 A first year PhD Student in Mathematics at Imperial College London, studying fluid-structure interactions in Low Reynolds Number flow.
 
 Contact Me
