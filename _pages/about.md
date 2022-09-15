@@ -1,14 +1,19 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+#title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+About Me
+======
+A first year PhD Student in Mathematics at Imperial College London, studying fluid-structure interactions in Low Reynolds Number flow.
 
-A first year PhD Student, studying fluid-structure interactions in Low Reynolds Number flow.
+Contact Me
+======
+For any enquiries, please get in contact [b.clarke21@imperial.ac.uk](mailto:b.clarke21@imperial.ac.uk) [test](mailto:b.clarke21@imperial.ac.uk)
 
 <!---
 A data-driven personal website
